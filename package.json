@@ -16,7 +16,9 @@
     "vite": "^5.4.1"
   },
   "dependencies": {
+    "@types/prop-types": "^15.7.12",
     "@types/toastify-js": "^1.12.3",
-    "react-loader-spinner": "^6.1.6"
+    "react-loader-spinner": "^6.1.6",
+    "react-toastify": "^10.0.5"
   }
 }
