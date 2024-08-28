@@ -1,6 +1,7 @@
 {
   "name": "goit-typescript-hw-02",
   "private": true,
+  "homepage": "https://olegfurculita1408.github.io/goit-typescript-hw-02/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
